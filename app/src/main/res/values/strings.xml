@@ -3,4 +3,6 @@
 
 
     <string name="open_app">Open Sudoku Solver</string>
+    <string name="intro">intro</string>
+    <string name="preference_file_key">open_file</string>
 </resources>
